@@ -12,12 +12,6 @@ The number of hosts in the subnet.
 The network number of the first two subnets.
 Both the first and last host address in the first subnet.
 
-with open("test.txt", "a") as f:
-    f.write("hello, i am adding another line here. \n")
-
-with open("test.txt", "r") as f:
-    text = f.read()
-    print(text)
 '''
 baseIP = "192.168.254."
 
