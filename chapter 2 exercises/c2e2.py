@@ -13,4 +13,3 @@ with open("show_version.txt",) as data:
 print(data[0])
 print(type(data))
 
-#blah blah blah 
