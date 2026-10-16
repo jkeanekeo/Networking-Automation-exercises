@@ -11,7 +11,6 @@ Your program should print out the following:
 The number of hosts in the subnet.
 The network number of the first two subnets.
 Both the first and last host address in the first subnet.
-
 '''
 baseIP = "192.168.254."
 
