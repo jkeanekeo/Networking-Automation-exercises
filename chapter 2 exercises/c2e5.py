@@ -27,7 +27,7 @@ status = "up" in line_status
 protocol = "up" in line_protocol 
 
 print(f"Is the line status up? {status}")
-print(f"\nIs the line protocol up? {status}")
+print(f"\nIs the line protocol up? {protocol}")
 
 print (f"\nInterface name:{intf_name}")
 print (f"\nIP Address:{intf_ip}")
